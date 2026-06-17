@@ -253,8 +253,8 @@ A few representative questions the dashboard answers:
 
 ## Author
 
-**[Your Name]**
-[GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+**Rohit Devadula**
+[GitHub]([https://github.com/<your-username>](https://github.com/roh-eng)) · [LinkedIn](https://linkedin.com/in/<your-profile>https://www.linkedin.com/in/rohit-devadula-1b9b9a290/)
 
 ---
 
