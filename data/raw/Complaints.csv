@@ -1,0 +1,801 @@
+ComplaintID,StudentID,ComplaintDate,Category,Priority,Status,ResolutionDays
+1,89,2025-04-16,WiFi,Low,Closed,4
+2,313,2025-12-14,Electricity,Medium,Closed,6
+3,200,2025-03-15,Electricity,Medium,Open,
+4,418,2025-03-24,WiFi,Medium,Closed,4
+5,292,2025-05-08,Electricity,High,Open,
+6,147,2025-02-16,Cleaning,Medium,In Progress,
+7,69,2025-01-03,Electricity,Medium,Closed,8
+8,360,2025-02-09,Furniture,Low,Closed,12
+9,131,2025-11-15,Plumbing,Medium,Closed,5
+10,160,2025-12-24,Security,Medium,In Progress,
+11,392,2025-01-21,Cleaning,Medium,In Progress,
+12,330,2025-12-08,Security,High,Closed,2
+13,97,2025-04-25,Security,Low,Closed,6
+14,92,2025-05-20,Security,Low,Open,
+15,448,2025-02-16,Security,Low,In Progress,
+16,13,2025-02-27,Security,High,Open,
+17,280,2025-01-06,Security,Low,Closed,12
+18,73,2025-12-26,Electricity,Medium,Open,
+19,35,2025-07-24,Furniture,Low,In Progress,
+20,189,2025-04-29,Electricity,High,In Progress,
+21,129,2025-09-10,WiFi,High,Closed,3
+22,465,2025-06-02,Cleaning,High,Closed,2
+23,432,2025-12-26,Furniture,High,Closed,4
+24,399,2025-10-11,Furniture,Medium,In Progress,
+25,494,2025-04-06,Electricity,Medium,Closed,3
+26,138,2025-01-31,Electricity,Low,Closed,11
+27,79,2025-05-24,Electricity,High,In Progress,
+28,266,2025-09-16,WiFi,Medium,Closed,6
+29,154,2025-06-15,WiFi,Low,Closed,13
+30,67,2025-08-28,WiFi,Low,Open,
+31,471,2025-03-07,Furniture,Medium,In Progress,
+32,434,2025-10-17,WiFi,Medium,Closed,5
+33,294,2025-09-27,Furniture,Medium,Closed,3
+34,362,2025-08-14,Security,High,Open,
+35,397,2025-09-23,Electricity,High,In Progress,
+36,211,2025-02-23,Cleaning,Low,Closed,6
+37,207,2025-05-15,WiFi,Low,Closed,10
+38,41,2025-06-06,Furniture,High,Closed,1
+39,81,2025-08-23,Furniture,Medium,Closed,3
+40,77,2025-07-26,Security,Low,In Progress,
+41,67,2025-12-22,Furniture,Low,Closed,6
+42,352,2025-10-22,Furniture,Medium,Closed,4
+43,8,2025-02-24,Electricity,Medium,In Progress,
+44,150,2025-03-13,Electricity,Medium,Closed,6
+45,321,2025-04-09,Electricity,Medium,Closed,5
+46,400,2025-03-01,Plumbing,High,Closed,1
+47,303,2025-04-15,Furniture,Medium,Closed,2
+48,210,2025-04-12,Electricity,High,Open,
+49,187,2025-01-24,Electricity,Low,Closed,13
+50,418,2025-03-26,Electricity,Medium,Closed,6
+51,7,2025-07-17,Security,Medium,Closed,6
+52,329,2025-10-23,Plumbing,High,In Progress,
+53,139,2025-12-19,Security,Low,Closed,8
+54,460,2025-09-11,Electricity,Medium,In Progress,
+55,166,2025-03-19,Plumbing,High,Closed,1
+56,195,2025-10-17,Security,High,Closed,2
+57,394,2025-02-22,Plumbing,Low,Closed,14
+58,275,2025-11-08,Electricity,Low,Closed,10
+59,451,2025-08-06,Plumbing,Low,Closed,14
+60,145,2025-05-16,WiFi,Medium,Closed,8
+61,265,2025-11-15,Cleaning,Medium,Closed,4
+62,334,2025-10-30,Security,Low,Open,
+63,332,2025-10-27,Electricity,High,In Progress,
+64,478,2025-06-29,Plumbing,Low,In Progress,
+65,103,2025-06-23,Plumbing,Medium,Closed,4
+66,191,2025-07-10,Electricity,Low,Closed,7
+67,386,2025-10-15,WiFi,High,Closed,2
+68,171,2025-01-06,Electricity,High,Closed,4
+69,225,2025-03-13,Electricity,High,Closed,2
+70,319,2025-07-30,Security,High,Closed,1
+71,176,2025-09-13,WiFi,High,Closed,2
+72,458,2025-11-09,Plumbing,High,Closed,3
+73,60,2025-10-08,Security,Medium,Closed,2
+74,53,2025-12-11,Furniture,Low,Closed,14
+75,411,2025-06-06,Security,Medium,Closed,8
+76,402,2025-11-12,WiFi,High,Closed,2
+77,149,2025-04-13,Plumbing,High,Closed,3
+78,255,2025-09-06,Electricity,Low,In Progress,
+79,396,2025-09-01,Electricity,High,Open,
+80,479,2025-12-07,Electricity,High,Open,
+81,392,2025-03-20,Furniture,Medium,Closed,7
+82,320,2025-01-02,Electricity,Medium,Open,
+83,379,2025-09-22,WiFi,High,Closed,2
+84,209,2025-09-01,WiFi,Medium,Open,
+85,93,2025-09-03,WiFi,Low,Open,
+86,27,2025-11-30,Plumbing,High,Closed,1
+87,194,2025-05-27,Security,High,Open,
+88,132,2025-07-18,Security,Low,Closed,6
+89,279,2025-04-16,Cleaning,Medium,Closed,4
+90,356,2025-03-25,Electricity,Low,Closed,10
+91,38,2025-02-03,Plumbing,Medium,Open,
+92,334,2025-02-28,Security,High,Closed,1
+93,245,2025-02-21,WiFi,High,Closed,3
+94,383,2025-07-10,Security,Low,Closed,14
+95,272,2025-07-11,Electricity,Medium,Closed,4
+96,115,2025-11-28,Furniture,Medium,Closed,4
+97,304,2025-07-27,Security,Low,Closed,13
+98,296,2025-04-30,Cleaning,Low,Closed,8
+99,380,2025-12-17,WiFi,Medium,Closed,2
+100,172,2025-09-26,Plumbing,Low,In Progress,
+101,192,2025-06-02,Furniture,Medium,Closed,3
+102,496,2025-07-09,Security,Low,Closed,7
+103,185,2025-07-12,Security,Low,In Progress,
+104,20,2025-10-03,Furniture,High,Closed,4
+105,239,2025-11-20,Security,Low,Closed,7
+106,83,2025-03-27,Cleaning,High,In Progress,
+107,47,2025-01-24,Furniture,High,Closed,4
+108,257,2025-04-12,WiFi,Low,Open,
+109,362,2025-03-25,Furniture,Medium,Closed,2
+110,335,2025-06-10,Electricity,High,In Progress,
+111,277,2025-04-05,WiFi,Low,Closed,4
+112,356,2025-11-02,Electricity,Medium,Closed,5
+113,339,2025-07-16,Cleaning,Medium,Closed,4
+114,48,2025-08-17,Furniture,High,Closed,2
+115,8,2025-09-14,Security,High,In Progress,
+116,458,2025-02-21,Cleaning,Low,Closed,8
+117,240,2025-05-18,WiFi,Medium,Closed,4
+118,224,2025-03-16,WiFi,Low,In Progress,
+119,232,2025-08-06,WiFi,Low,Closed,10
+120,55,2025-01-06,Electricity,Low,Open,
+121,46,2025-04-26,Furniture,Medium,Open,
+122,262,2025-01-31,Cleaning,Medium,Open,
+123,233,2025-11-26,Furniture,Medium,Open,
+124,411,2025-04-13,Security,Medium,Open,
+125,124,2025-12-21,Electricity,Low,Closed,4
+126,92,2025-04-12,WiFi,Medium,Closed,6
+127,262,2025-10-30,Cleaning,Medium,In Progress,
+128,225,2025-10-10,Electricity,Medium,Closed,8
+129,216,2025-04-10,Electricity,Low,Closed,6
+130,122,2025-10-05,Plumbing,Medium,Closed,3
+131,424,2025-10-31,Electricity,Medium,Closed,4
+132,19,2025-09-13,WiFi,High,Closed,3
+133,355,2025-02-11,Plumbing,High,In Progress,
+134,367,2025-06-07,Electricity,High,Open,
+135,98,2025-11-21,WiFi,Low,Open,
+136,356,2025-09-28,Electricity,Medium,Closed,7
+137,316,2025-07-09,Security,High,In Progress,
+138,411,2025-01-03,Cleaning,Low,Closed,11
+139,362,2025-05-07,Furniture,Low,Closed,5
+140,105,2025-11-18,Plumbing,Medium,Closed,2
+141,200,2025-10-29,Cleaning,Medium,Closed,2
+142,31,2025-12-26,Plumbing,Medium,Closed,5
+143,344,2025-12-25,Electricity,High,Closed,2
+144,228,2025-05-09,Furniture,Low,Closed,6
+145,485,2025-03-29,Electricity,Medium,Closed,2
+146,401,2025-09-21,WiFi,Medium,In Progress,
+147,110,2025-08-11,WiFi,Medium,Closed,8
+148,480,2025-11-17,Electricity,Medium,Closed,4
+149,368,2025-05-23,Electricity,Medium,Closed,4
+150,474,2025-02-11,Security,High,Closed,3
+151,450,2025-04-12,Electricity,High,Closed,3
+152,406,2025-05-27,Plumbing,Medium,Closed,4
+153,403,2025-06-02,Cleaning,Low,Closed,11
+154,230,2025-12-05,Electricity,High,Open,
+155,67,2025-06-08,Security,Low,Closed,7
+156,379,2025-04-08,Security,Medium,Closed,8
+157,415,2025-10-12,Cleaning,High,Open,
+158,482,2025-03-02,Plumbing,Low,Closed,8
+159,94,2025-01-02,Plumbing,Low,Closed,15
+160,425,2025-01-19,Electricity,High,Closed,4
+161,70,2025-08-28,Security,Medium,Closed,6
+162,216,2025-09-01,Security,Medium,Closed,6
+163,385,2025-04-10,Electricity,Medium,Open,
+164,337,2025-07-19,Plumbing,Medium,Closed,2
+165,282,2025-08-10,Plumbing,Low,Closed,6
+166,375,2025-10-13,Electricity,High,Closed,2
+167,492,2025-05-30,Security,Low,In Progress,
+168,352,2025-09-21,Plumbing,Low,Closed,12
+169,432,2025-09-11,Electricity,High,Closed,2
+170,353,2025-05-28,Plumbing,Low,Closed,14
+171,313,2025-10-18,Security,High,Closed,2
+172,160,2025-04-06,Electricity,High,Open,
+173,440,2025-02-26,Security,Medium,In Progress,
+174,153,2025-07-09,Furniture,Medium,Closed,5
+175,170,2025-01-21,Electricity,High,In Progress,
+176,72,2025-09-12,Security,Medium,Closed,4
+177,265,2025-01-22,Electricity,Medium,Closed,8
+178,12,2025-06-18,WiFi,Medium,Closed,7
+179,175,2025-04-21,Electricity,Medium,Closed,2
+180,212,2025-06-18,Security,High,Open,
+181,474,2025-08-15,Security,Medium,In Progress,
+182,426,2025-01-27,Electricity,Medium,Closed,3
+183,446,2025-05-01,Security,Medium,Closed,8
+184,83,2025-12-04,Cleaning,Medium,Closed,4
+185,382,2025-12-29,Electricity,Low,Closed,11
+186,194,2025-02-13,Electricity,Low,Closed,3
+187,79,2025-10-15,Plumbing,Medium,Closed,4
+188,417,2025-01-26,Security,High,Closed,2
+189,333,2025-07-08,Cleaning,Medium,Closed,3
+190,499,2025-01-17,Electricity,Medium,In Progress,
+191,417,2025-03-30,Furniture,Low,Open,
+192,403,2025-11-14,Furniture,Low,Closed,4
+193,481,2025-09-08,WiFi,Medium,Closed,5
+194,377,2025-01-23,Plumbing,Low,Closed,12
+195,328,2025-01-07,Plumbing,High,Closed,2
+196,312,2025-01-16,Furniture,Low,In Progress,
+197,497,2025-12-06,Furniture,High,Closed,2
+198,43,2025-04-29,Plumbing,High,Closed,3
+199,98,2025-04-23,Security,Low,In Progress,
+200,296,2025-02-12,Electricity,Medium,In Progress,
+201,39,2025-05-14,Electricity,Medium,Closed,7
+202,195,2025-01-06,Plumbing,Low,Closed,9
+203,129,2025-08-15,Plumbing,Medium,Closed,5
+204,63,2025-07-21,Security,Medium,Closed,3
+205,436,2025-09-13,Security,High,Closed,3
+206,365,2025-04-15,Furniture,Low,Closed,4
+207,314,2025-07-12,Plumbing,Medium,Closed,3
+208,448,2025-02-06,Cleaning,Medium,Closed,7
+209,250,2025-11-01,WiFi,Medium,Closed,2
+210,447,2025-02-09,Security,Medium,In Progress,
+211,275,2025-10-23,Electricity,High,In Progress,
+212,83,2025-12-26,Electricity,Medium,Open,
+213,334,2025-12-05,Security,Medium,Open,
+214,201,2025-07-03,Security,High,Closed,2
+215,171,2025-07-16,Electricity,Low,In Progress,
+216,129,2025-07-22,Cleaning,Medium,Closed,4
+217,67,2025-12-04,Electricity,Medium,Closed,8
+218,120,2025-05-25,Security,Medium,Open,
+219,450,2025-08-09,Security,Medium,Closed,6
+220,218,2025-07-15,Furniture,Low,Closed,14
+221,468,2025-11-21,Plumbing,Medium,Open,
+222,150,2025-12-18,Furniture,Low,Open,
+223,412,2025-07-01,Security,Low,Open,
+224,482,2025-07-31,Cleaning,Medium,Closed,6
+225,246,2025-07-25,Security,High,In Progress,
+226,215,2025-03-19,Plumbing,High,Closed,4
+227,494,2025-06-29,Security,Medium,Closed,6
+228,171,2025-11-04,Plumbing,High,Open,
+229,466,2025-01-06,Electricity,Low,Open,
+230,28,2025-12-14,Plumbing,Medium,Closed,2
+231,66,2025-09-19,WiFi,Low,Closed,14
+232,439,2025-01-15,WiFi,Medium,In Progress,
+233,332,2025-11-20,WiFi,Medium,In Progress,
+234,133,2025-06-11,Electricity,Medium,Closed,3
+235,117,2025-11-20,Plumbing,High,Closed,1
+236,193,2025-01-12,Plumbing,High,Closed,3
+237,13,2025-05-08,Cleaning,High,In Progress,
+238,92,2025-07-18,Security,Medium,In Progress,
+239,292,2025-04-04,Furniture,Low,Open,
+240,146,2025-07-12,Security,High,In Progress,
+241,244,2025-03-26,Electricity,Medium,In Progress,
+242,82,2025-08-20,Cleaning,Low,Closed,7
+243,374,2025-11-27,Electricity,High,Closed,1
+244,336,2025-01-12,Cleaning,High,Closed,1
+245,180,2025-08-06,WiFi,Low,In Progress,
+246,110,2025-02-06,Plumbing,Low,Closed,6
+247,465,2025-12-09,Security,Low,Closed,3
+248,206,2025-05-05,WiFi,High,In Progress,
+249,415,2025-07-14,Electricity,Medium,Open,
+250,150,2025-02-12,Furniture,Medium,Open,
+251,303,2025-11-30,Electricity,Medium,In Progress,
+252,186,2025-10-10,WiFi,Medium,Closed,6
+253,351,2025-09-30,Security,Medium,Closed,4
+254,67,2025-03-25,WiFi,Medium,Closed,8
+255,480,2025-01-27,Security,High,Closed,1
+256,40,2025-01-22,WiFi,Low,In Progress,
+257,389,2025-07-21,Electricity,Low,In Progress,
+258,431,2025-03-17,Security,Low,Closed,11
+259,199,2025-03-01,Plumbing,Low,Closed,11
+260,7,2025-11-25,WiFi,High,Closed,3
+261,230,2025-04-24,Plumbing,Low,In Progress,
+262,466,2025-11-14,WiFi,Medium,Closed,6
+263,208,2025-06-29,Electricity,Medium,Closed,2
+264,289,2025-12-13,Furniture,Low,In Progress,
+265,460,2025-03-03,Furniture,Medium,Closed,5
+266,30,2025-10-19,Plumbing,Medium,Open,
+267,331,2025-09-26,Cleaning,High,In Progress,
+268,73,2025-10-14,WiFi,Medium,In Progress,
+269,22,2025-11-03,Electricity,Medium,Closed,6
+270,143,2025-07-03,Security,High,In Progress,
+271,47,2025-03-26,WiFi,Medium,Open,
+272,92,2025-09-17,Plumbing,Low,Closed,5
+273,436,2025-12-17,Plumbing,Medium,In Progress,
+274,397,2025-02-28,Electricity,Medium,Closed,4
+275,227,2025-07-26,WiFi,Low,Closed,13
+276,348,2025-04-28,Cleaning,High,In Progress,
+277,328,2025-03-21,Furniture,High,Open,
+278,187,2025-03-18,Furniture,Medium,Closed,7
+279,233,2025-02-04,Cleaning,Low,In Progress,
+280,313,2025-03-31,Security,Low,In Progress,
+281,154,2025-08-25,Cleaning,High,Closed,1
+282,243,2025-07-12,Cleaning,High,Closed,2
+283,30,2025-10-09,Electricity,Medium,Closed,2
+284,47,2025-02-17,Furniture,Medium,In Progress,
+285,116,2025-11-19,Electricity,High,Closed,2
+286,190,2025-05-20,Plumbing,Medium,Closed,6
+287,196,2025-07-13,Plumbing,Medium,Closed,8
+288,274,2025-04-25,Security,Low,In Progress,
+289,449,2025-04-29,Furniture,High,Closed,2
+290,322,2025-05-11,Cleaning,Low,Closed,10
+291,155,2025-02-05,Cleaning,Low,Open,
+292,63,2025-03-09,WiFi,Low,Closed,10
+293,410,2025-06-25,Electricity,High,Closed,1
+294,44,2025-04-22,Cleaning,Medium,Closed,6
+295,348,2025-03-09,Security,High,In Progress,
+296,83,2025-09-27,Furniture,Medium,In Progress,
+297,184,2025-11-12,Security,High,In Progress,
+298,500,2025-12-05,Security,Low,Closed,3
+299,482,2025-11-24,Plumbing,Low,Closed,5
+300,91,2025-09-28,Furniture,Medium,Closed,7
+301,206,2025-02-10,Plumbing,Medium,Open,
+302,354,2025-02-04,Plumbing,Low,Closed,11
+303,383,2025-03-31,WiFi,High,Closed,3
+304,190,2025-07-02,WiFi,Medium,Closed,7
+305,407,2025-02-20,Plumbing,Medium,Open,
+306,220,2025-11-21,Electricity,Low,Closed,4
+307,89,2025-04-24,WiFi,High,Closed,4
+308,288,2025-03-21,Security,Medium,Closed,2
+309,471,2025-06-20,Plumbing,Medium,Closed,2
+310,122,2025-06-13,Cleaning,Medium,Closed,3
+311,223,2025-03-11,Cleaning,Low,Closed,13
+312,191,2025-03-14,Plumbing,High,Open,
+313,214,2025-06-25,Cleaning,Low,Closed,12
+314,107,2025-12-10,Plumbing,Low,Closed,12
+315,44,2025-06-19,Security,Low,Open,
+316,331,2025-04-12,Security,Medium,Closed,4
+317,32,2025-07-20,Furniture,Low,Closed,7
+318,24,2025-08-05,Furniture,Medium,Open,
+319,185,2025-10-30,WiFi,Medium,Open,
+320,172,2025-08-21,Furniture,Medium,Open,
+321,144,2025-07-20,Cleaning,Medium,Closed,8
+322,431,2025-08-26,Cleaning,Medium,Open,
+323,56,2025-10-19,Cleaning,High,Open,
+324,16,2025-02-15,Plumbing,Low,Closed,4
+325,96,2025-03-31,Security,High,Closed,4
+326,278,2025-02-27,Plumbing,Medium,Closed,5
+327,123,2025-06-24,Electricity,Low,In Progress,
+328,30,2025-11-27,Security,Medium,Closed,7
+329,1,2025-12-12,WiFi,High,Closed,3
+330,289,2025-07-15,Cleaning,Medium,Open,
+331,463,2025-10-17,Security,High,Closed,4
+332,104,2025-04-10,WiFi,Low,Closed,8
+333,219,2025-03-10,WiFi,Low,Closed,4
+334,288,2025-07-13,Security,High,In Progress,
+335,291,2025-08-03,Plumbing,Low,In Progress,
+336,333,2025-07-10,Furniture,Medium,Closed,2
+337,53,2025-12-12,Furniture,High,Closed,3
+338,369,2025-07-25,Security,High,Closed,1
+339,397,2025-03-13,Security,Medium,Closed,3
+340,100,2025-10-03,Cleaning,High,Closed,2
+341,209,2025-05-26,Plumbing,Medium,In Progress,
+342,123,2025-05-28,Furniture,Medium,Closed,3
+343,131,2025-11-25,Cleaning,Low,Closed,8
+344,328,2025-01-05,WiFi,Low,Closed,3
+345,430,2025-10-25,Plumbing,High,In Progress,
+346,333,2025-10-28,WiFi,Low,Closed,15
+347,192,2025-08-10,Furniture,Medium,Closed,4
+348,320,2025-06-27,Furniture,Medium,In Progress,
+349,297,2025-03-25,Cleaning,High,In Progress,
+350,233,2025-01-14,Furniture,Low,Closed,15
+351,316,2025-06-14,Electricity,Low,In Progress,
+352,119,2025-02-09,Security,High,Closed,1
+353,24,2025-01-24,Security,Medium,Closed,8
+354,231,2025-03-07,Cleaning,Low,Open,
+355,158,2025-03-28,Security,Low,Open,
+356,225,2025-06-18,Cleaning,Medium,Closed,2
+357,39,2025-05-30,Security,High,In Progress,
+358,6,2025-06-06,Plumbing,Low,Closed,12
+359,145,2025-08-05,Electricity,Medium,Closed,7
+360,245,2025-05-20,Plumbing,Low,In Progress,
+361,375,2025-02-11,Electricity,Low,In Progress,
+362,124,2025-01-26,Cleaning,Low,Closed,3
+363,359,2025-02-01,Cleaning,Medium,Closed,5
+364,28,2025-04-11,Electricity,High,In Progress,
+365,87,2025-02-12,Furniture,Medium,Closed,7
+366,182,2025-04-19,Security,Low,Closed,9
+367,6,2025-01-02,WiFi,Medium,Closed,6
+368,147,2025-02-28,Security,High,Closed,2
+369,95,2025-11-23,WiFi,Low,Closed,13
+370,462,2025-10-20,Furniture,Medium,Closed,6
+371,2,2025-03-14,Plumbing,Medium,Open,
+372,416,2025-02-07,Electricity,Medium,Closed,7
+373,500,2025-07-19,Cleaning,High,Closed,4
+374,489,2025-10-06,Electricity,High,Closed,1
+375,3,2025-09-03,Security,Medium,Closed,7
+376,51,2025-01-16,Plumbing,Low,Closed,11
+377,405,2025-11-29,Plumbing,Medium,In Progress,
+378,413,2025-05-22,Furniture,High,Closed,1
+379,115,2025-09-26,Security,High,Closed,4
+380,317,2025-06-15,Security,Low,Closed,11
+381,184,2025-10-08,Security,Medium,In Progress,
+382,48,2025-03-31,Furniture,High,Closed,2
+383,291,2025-04-15,Electricity,Low,Closed,10
+384,479,2025-12-06,Electricity,Medium,Closed,7
+385,151,2025-07-14,WiFi,Low,Closed,5
+386,253,2025-05-05,Security,Medium,In Progress,
+387,342,2025-01-25,Electricity,High,Open,
+388,205,2025-06-15,Security,High,Closed,2
+389,373,2025-04-07,Furniture,Low,Closed,13
+390,124,2025-11-29,Plumbing,Medium,In Progress,
+391,390,2025-11-20,Security,High,Closed,2
+392,154,2025-02-15,Electricity,High,Open,
+393,419,2025-12-10,Plumbing,Low,Closed,7
+394,134,2025-09-18,Security,High,Closed,2
+395,86,2025-12-30,Furniture,Medium,Closed,2
+396,154,2025-01-29,Furniture,High,In Progress,
+397,385,2025-10-28,Furniture,Low,Closed,8
+398,203,2025-03-24,Electricity,Medium,Closed,2
+399,311,2025-03-02,Security,Medium,Open,
+400,375,2025-10-25,Plumbing,Medium,Closed,7
+401,489,2025-02-01,Plumbing,Low,Open,
+402,397,2025-05-27,Security,High,Closed,2
+403,480,2025-05-23,Furniture,Medium,Closed,8
+404,237,2025-08-26,Furniture,Medium,Open,
+405,226,2025-06-10,WiFi,High,Open,
+406,307,2025-01-14,Security,Low,Closed,9
+407,95,2025-12-28,Plumbing,Low,Closed,7
+408,224,2025-09-03,Cleaning,Medium,Closed,8
+409,64,2025-07-25,Plumbing,Medium,Closed,5
+410,122,2025-07-19,Security,Medium,In Progress,
+411,443,2025-03-27,Cleaning,Low,Open,
+412,232,2025-11-05,Cleaning,Medium,Closed,6
+413,371,2025-09-09,Furniture,High,Closed,4
+414,52,2025-01-23,Furniture,Medium,In Progress,
+415,20,2025-04-17,Security,Low,Closed,14
+416,455,2025-07-05,Security,High,Closed,3
+417,252,2025-09-30,Electricity,High,Closed,1
+418,448,2025-04-29,Furniture,Low,Open,
+419,331,2025-09-03,Plumbing,High,Closed,3
+420,102,2025-02-09,Cleaning,Low,Open,
+421,309,2025-04-14,Electricity,Low,Open,
+422,355,2025-06-02,Cleaning,High,Closed,4
+423,41,2025-03-16,Security,High,Closed,1
+424,456,2025-03-25,Security,Medium,Open,
+425,113,2025-05-13,Security,Medium,Open,
+426,137,2025-11-27,Electricity,High,Open,
+427,137,2025-08-30,Security,Low,In Progress,
+428,302,2025-05-27,Security,Low,Closed,8
+429,500,2025-12-09,Furniture,High,Closed,3
+430,110,2025-09-04,Furniture,Low,Closed,7
+431,371,2025-06-30,Electricity,Medium,Closed,8
+432,181,2025-04-26,Furniture,High,Open,
+433,304,2025-07-18,Electricity,Medium,Open,
+434,370,2025-09-22,Furniture,High,In Progress,
+435,481,2025-03-26,WiFi,High,Closed,1
+436,162,2025-05-22,Electricity,Medium,Closed,6
+437,51,2025-11-25,Security,Low,Open,
+438,272,2025-07-14,Electricity,Low,In Progress,
+439,238,2025-11-14,WiFi,Medium,In Progress,
+440,267,2025-08-16,Plumbing,Low,Closed,4
+441,171,2025-02-21,Electricity,Medium,Closed,5
+442,356,2025-11-24,Furniture,High,In Progress,
+443,442,2025-05-16,Furniture,Medium,Closed,5
+444,417,2025-10-26,Security,Low,Closed,9
+445,138,2025-10-31,Furniture,Low,Closed,15
+446,460,2025-06-29,WiFi,Medium,Open,
+447,306,2025-09-16,Cleaning,Medium,In Progress,
+448,363,2025-07-04,WiFi,Medium,Closed,6
+449,121,2025-02-21,Security,High,In Progress,
+450,71,2025-12-25,Security,Medium,Closed,6
+451,197,2025-01-05,WiFi,Low,Closed,4
+452,278,2025-02-06,Electricity,Medium,Open,
+453,411,2025-01-20,Furniture,High,Closed,4
+454,476,2025-04-22,Plumbing,Low,Closed,12
+455,340,2025-09-28,Furniture,Low,In Progress,
+456,241,2025-01-14,WiFi,Medium,Open,
+457,264,2025-11-01,Cleaning,Medium,In Progress,
+458,189,2025-11-01,Electricity,High,Closed,4
+459,351,2025-01-17,Cleaning,Medium,Open,
+460,240,2025-04-05,Furniture,Medium,Closed,7
+461,13,2025-01-11,Electricity,Medium,Closed,6
+462,58,2025-04-13,WiFi,Medium,Closed,3
+463,314,2025-08-06,Security,Medium,Closed,3
+464,330,2025-01-17,Security,High,Open,
+465,30,2025-01-25,WiFi,High,Closed,3
+466,430,2025-06-09,Security,Low,Open,
+467,206,2025-06-22,Electricity,Low,Closed,3
+468,313,2025-11-29,Cleaning,Low,Closed,10
+469,308,2025-11-28,WiFi,Medium,Closed,7
+470,186,2025-12-12,Security,Medium,Open,
+471,424,2025-05-26,Security,Medium,Closed,4
+472,394,2025-11-02,Furniture,High,Closed,4
+473,229,2025-09-25,Furniture,Low,In Progress,
+474,350,2025-02-08,Security,High,Closed,3
+475,389,2025-03-29,WiFi,Low,In Progress,
+476,441,2025-10-10,Electricity,Low,In Progress,
+477,170,2025-08-08,WiFi,Low,Open,
+478,460,2025-04-11,WiFi,Medium,In Progress,
+479,246,2025-11-08,Security,Medium,Closed,4
+480,198,2025-01-07,Furniture,Low,Closed,13
+481,323,2025-12-27,WiFi,High,In Progress,
+482,81,2025-11-28,Electricity,Medium,Closed,6
+483,307,2025-06-30,Security,Medium,Closed,6
+484,421,2025-02-28,WiFi,Low,In Progress,
+485,368,2025-08-20,Plumbing,Medium,Closed,2
+486,176,2025-10-22,Electricity,High,Closed,3
+487,181,2025-05-27,Furniture,Low,Closed,11
+488,239,2025-08-18,WiFi,Low,Open,
+489,271,2025-12-06,Furniture,High,Closed,4
+490,332,2025-10-31,Furniture,Medium,Closed,2
+491,437,2025-05-08,Cleaning,Low,Closed,7
+492,129,2025-04-06,Plumbing,Medium,Closed,3
+493,164,2025-12-03,Furniture,Low,Closed,12
+494,134,2025-06-27,Cleaning,High,Closed,2
+495,100,2025-01-17,Electricity,Low,Closed,6
+496,244,2025-03-30,Security,Low,Closed,9
+497,335,2025-07-16,Plumbing,Low,Closed,3
+498,335,2025-02-27,Cleaning,Low,Closed,12
+499,278,2025-04-22,Electricity,Medium,In Progress,
+500,320,2025-09-04,Security,Low,Closed,9
+501,412,2025-02-22,Cleaning,Medium,Open,
+502,297,2025-04-02,Security,Low,In Progress,
+503,70,2025-07-14,WiFi,High,In Progress,
+504,230,2025-02-07,Plumbing,Low,Closed,9
+505,267,2025-10-10,WiFi,Medium,Open,
+506,174,2025-01-31,Electricity,Medium,In Progress,
+507,336,2025-07-02,Cleaning,Medium,Open,
+508,336,2025-09-12,Furniture,Medium,In Progress,
+509,181,2025-03-08,Cleaning,Medium,Closed,8
+510,142,2025-07-09,Security,Medium,Closed,4
+511,3,2025-02-24,WiFi,High,Closed,3
+512,355,2025-09-05,Plumbing,Medium,Closed,8
+513,101,2025-01-09,Cleaning,Medium,In Progress,
+514,181,2025-05-09,Furniture,Low,Closed,9
+515,223,2025-11-24,Plumbing,High,Closed,3
+516,147,2025-09-01,Security,Low,Open,
+517,337,2025-07-23,Cleaning,High,Open,
+518,475,2025-03-07,Electricity,Medium,Open,
+519,308,2025-07-16,WiFi,Medium,In Progress,
+520,37,2025-08-12,Cleaning,Medium,Open,
+521,250,2025-09-04,Plumbing,High,Closed,3
+522,332,2025-09-19,Plumbing,Low,Closed,8
+523,481,2025-08-03,WiFi,Medium,In Progress,
+524,7,2025-05-31,Security,Low,Closed,4
+525,27,2025-07-16,Furniture,Medium,Closed,6
+526,231,2025-07-23,Electricity,Low,Open,
+527,298,2025-05-04,Electricity,Medium,Closed,8
+528,407,2025-06-28,Plumbing,Low,Closed,9
+529,413,2025-04-14,Plumbing,High,Open,
+530,412,2025-07-07,Cleaning,High,Closed,3
+531,65,2025-07-27,WiFi,Medium,Closed,3
+532,133,2025-03-19,Plumbing,Medium,In Progress,
+533,268,2025-02-11,Cleaning,Low,Closed,8
+534,478,2025-07-13,Electricity,Medium,Closed,3
+535,162,2025-10-01,WiFi,Low,Closed,7
+536,448,2025-09-02,Electricity,High,Closed,2
+537,129,2025-08-23,Electricity,High,Closed,3
+538,333,2025-05-18,WiFi,Low,Closed,13
+539,163,2025-01-26,Cleaning,High,In Progress,
+540,378,2025-06-25,Cleaning,High,Closed,4
+541,469,2025-09-20,Plumbing,Medium,Closed,8
+542,52,2025-12-14,Furniture,Low,Closed,12
+543,367,2025-08-16,Furniture,Medium,Closed,4
+544,328,2025-05-09,Plumbing,High,Closed,3
+545,112,2025-01-10,WiFi,Medium,Closed,2
+546,315,2025-12-06,Security,High,Closed,3
+547,58,2025-10-23,Cleaning,Low,Closed,8
+548,327,2025-11-20,Security,High,Open,
+549,103,2025-11-01,WiFi,Low,Closed,9
+550,236,2025-10-13,Electricity,Medium,Closed,3
+551,280,2025-07-12,Plumbing,High,Closed,1
+552,34,2025-04-02,Furniture,Low,Closed,7
+553,183,2025-10-30,WiFi,Low,Closed,3
+554,491,2025-11-29,Electricity,Low,Open,
+555,40,2025-11-03,Furniture,Low,In Progress,
+556,43,2025-02-15,Security,High,Closed,1
+557,17,2025-02-22,Electricity,Low,Closed,12
+558,283,2025-02-11,Security,Low,Closed,4
+559,220,2025-07-03,Plumbing,Medium,Closed,3
+560,469,2025-10-07,Furniture,Low,Closed,14
+561,46,2025-06-04,Electricity,Medium,Closed,6
+562,21,2025-08-29,Security,Low,Closed,7
+563,268,2025-10-20,Furniture,Medium,In Progress,
+564,25,2025-04-08,Cleaning,Medium,Open,
+565,40,2025-09-06,Cleaning,Medium,Closed,5
+566,378,2025-06-09,WiFi,Low,Closed,15
+567,29,2025-02-13,Cleaning,Low,Closed,3
+568,197,2025-11-02,Furniture,Low,Closed,7
+569,88,2025-07-30,Security,Medium,In Progress,
+570,261,2025-02-21,Cleaning,Low,Open,
+571,30,2025-11-10,Electricity,Low,Closed,13
+572,227,2025-12-18,Furniture,Medium,Open,
+573,129,2025-09-12,Plumbing,Low,In Progress,
+574,72,2025-07-23,WiFi,High,Closed,2
+575,217,2025-10-19,WiFi,Medium,Closed,6
+576,270,2025-05-22,Electricity,Medium,Closed,5
+577,366,2025-03-22,Security,High,Closed,4
+578,214,2025-09-20,Plumbing,High,In Progress,
+579,12,2025-01-16,Security,Low,Closed,10
+580,179,2025-01-25,Furniture,Medium,Closed,8
+581,166,2025-01-31,Security,Medium,Closed,5
+582,408,2025-02-27,WiFi,Medium,In Progress,
+583,281,2025-12-01,Plumbing,High,Open,
+584,441,2025-05-14,Cleaning,Medium,Closed,5
+585,374,2025-11-24,Plumbing,Low,Open,
+586,8,2025-06-17,Electricity,High,Closed,1
+587,54,2025-11-11,WiFi,Low,In Progress,
+588,85,2025-06-01,Plumbing,Medium,Closed,5
+589,207,2025-03-04,Electricity,High,In Progress,
+590,131,2025-03-04,Plumbing,Medium,Open,
+591,398,2025-05-25,Plumbing,Medium,Closed,3
+592,37,2025-03-03,Security,Medium,Closed,2
+593,36,2025-09-27,WiFi,Medium,Open,
+594,373,2025-03-31,Electricity,Medium,Closed,3
+595,102,2025-06-26,Electricity,High,Closed,1
+596,251,2025-01-31,Plumbing,Medium,Open,
+597,81,2025-03-24,Security,Low,Closed,7
+598,213,2025-11-15,Electricity,Low,In Progress,
+599,354,2025-10-31,Plumbing,Medium,Closed,2
+600,374,2025-02-17,WiFi,High,Closed,2
+601,362,2025-02-09,Furniture,Medium,In Progress,
+602,220,2025-11-27,Furniture,Medium,Closed,4
+603,336,2025-03-22,Electricity,Medium,Closed,3
+604,70,2025-11-15,Cleaning,Medium,In Progress,
+605,400,2025-01-31,Security,Low,Closed,6
+606,261,2025-09-27,Electricity,Medium,In Progress,
+607,436,2025-03-11,WiFi,Low,Closed,8
+608,197,2025-07-16,Cleaning,Low,In Progress,
+609,70,2025-08-02,Security,High,In Progress,
+610,208,2025-05-19,Electricity,Medium,Closed,4
+611,315,2025-11-21,Plumbing,High,Open,
+612,490,2025-09-09,Electricity,Low,Closed,3
+613,49,2025-12-05,Security,Low,Closed,11
+614,333,2025-02-18,Electricity,High,Closed,4
+615,280,2025-10-20,Security,Low,In Progress,
+616,303,2025-08-30,WiFi,Medium,In Progress,
+617,213,2025-12-01,WiFi,High,Closed,1
+618,245,2025-01-29,Plumbing,Low,In Progress,
+619,102,2025-07-31,WiFi,Medium,Closed,8
+620,210,2025-05-24,Cleaning,Low,Closed,15
+621,287,2025-04-17,Plumbing,High,In Progress,
+622,281,2025-03-14,Electricity,Medium,Closed,6
+623,154,2025-12-05,Electricity,Low,In Progress,
+624,477,2025-03-22,WiFi,High,Open,
+625,24,2025-06-18,Cleaning,High,Open,
+626,289,2025-12-26,Furniture,Medium,Closed,3
+627,322,2025-04-11,Electricity,Medium,Closed,3
+628,390,2025-11-07,Furniture,Medium,Closed,2
+629,389,2025-07-24,Plumbing,High,Closed,1
+630,140,2025-05-31,Electricity,Medium,Closed,5
+631,96,2025-06-13,Electricity,Low,In Progress,
+632,364,2025-06-15,Security,High,Closed,4
+633,420,2025-02-08,Cleaning,Medium,Closed,2
+634,121,2025-05-22,Plumbing,Low,Closed,3
+635,478,2025-02-25,Security,Low,Open,
+636,356,2025-11-14,Furniture,Medium,Closed,7
+637,331,2025-03-19,Furniture,Medium,Open,
+638,212,2025-04-21,Electricity,Medium,Closed,7
+639,286,2025-09-17,Electricity,Low,In Progress,
+640,496,2025-09-05,Electricity,Medium,Closed,5
+641,54,2025-04-19,Furniture,Medium,Open,
+642,425,2025-05-11,Plumbing,High,In Progress,
+643,337,2025-06-08,Plumbing,Medium,Closed,5
+644,288,2025-10-23,Security,High,Closed,4
+645,427,2025-01-08,Cleaning,Low,Closed,9
+646,17,2025-11-15,Plumbing,High,Closed,1
+647,393,2025-05-16,Electricity,Medium,In Progress,
+648,82,2025-03-19,Cleaning,High,Open,
+649,358,2025-12-30,Electricity,Medium,Open,
+650,379,2025-06-17,WiFi,High,Closed,1
+651,276,2025-11-13,Cleaning,Low,Closed,6
+652,181,2025-10-28,Furniture,Medium,Open,
+653,313,2025-04-23,Security,Medium,Closed,3
+654,44,2025-09-15,Electricity,Medium,Closed,5
+655,477,2025-12-24,Furniture,High,Closed,3
+656,401,2025-11-21,Cleaning,High,In Progress,
+657,17,2025-08-25,Security,High,Open,
+658,460,2025-02-11,Security,Low,Closed,7
+659,462,2025-11-28,Electricity,Low,Closed,7
+660,193,2025-08-30,Electricity,High,Open,
+661,481,2025-07-24,Plumbing,High,In Progress,
+662,215,2025-01-14,Cleaning,High,Closed,1
+663,395,2025-07-22,Plumbing,Medium,In Progress,
+664,99,2025-09-17,Cleaning,Medium,Open,
+665,113,2025-05-12,Furniture,Low,Closed,15
+666,188,2025-01-14,Electricity,High,Closed,2
+667,412,2025-05-17,Plumbing,Low,Closed,7
+668,397,2025-01-23,WiFi,Medium,Closed,2
+669,118,2025-01-16,Security,Low,Closed,6
+670,146,2025-10-09,Electricity,Medium,Closed,2
+671,268,2025-10-30,Electricity,High,Open,
+672,67,2025-02-24,WiFi,High,Closed,1
+673,304,2025-09-08,WiFi,Low,Closed,8
+674,313,2025-04-24,Plumbing,Medium,Closed,2
+675,90,2025-01-30,WiFi,Low,Open,
+676,190,2025-05-20,Plumbing,Low,Closed,10
+677,421,2025-11-26,Electricity,High,Open,
+678,388,2025-04-09,Security,Low,In Progress,
+679,438,2025-06-09,Furniture,Medium,Closed,8
+680,216,2025-08-11,Plumbing,High,Closed,3
+681,259,2025-09-07,Furniture,Medium,Closed,3
+682,6,2025-07-14,Furniture,High,Closed,1
+683,64,2025-01-08,WiFi,Low,Closed,5
+684,238,2025-05-27,Cleaning,Medium,Closed,6
+685,172,2025-07-17,Electricity,High,Open,
+686,38,2025-12-18,Security,High,Closed,2
+687,379,2025-05-06,Furniture,Low,In Progress,
+688,72,2025-07-14,Electricity,Low,Closed,3
+689,44,2025-01-22,Electricity,Low,Closed,14
+690,478,2025-12-15,Plumbing,Medium,Open,
+691,357,2025-06-17,Plumbing,High,Closed,1
+692,106,2025-11-02,Electricity,Medium,Closed,7
+693,104,2025-08-14,Cleaning,Medium,Open,
+694,35,2025-08-16,Electricity,High,Closed,2
+695,338,2025-11-02,Cleaning,Medium,Closed,6
+696,433,2025-10-02,Security,Low,Open,
+697,302,2025-08-17,Plumbing,Medium,Closed,8
+698,255,2025-06-21,Furniture,Medium,In Progress,
+699,278,2025-07-07,Security,Medium,Closed,2
+700,368,2025-04-27,Cleaning,High,Open,
+701,7,2025-10-10,Plumbing,High,Closed,3
+702,102,2025-07-20,WiFi,Low,Closed,5
+703,323,2025-08-20,Electricity,Low,Closed,3
+704,468,2025-06-22,Furniture,Medium,Closed,6
+705,62,2025-07-26,Security,Low,Open,
+706,273,2025-08-24,Plumbing,High,Closed,1
+707,154,2025-05-13,WiFi,High,Closed,3
+708,345,2025-06-11,Security,High,Closed,2
+709,411,2025-01-23,Security,High,Closed,3
+710,89,2025-06-30,Furniture,Medium,Open,
+711,58,2025-07-21,Electricity,Medium,Closed,8
+712,388,2025-10-21,Plumbing,Medium,In Progress,
+713,161,2025-08-10,WiFi,Medium,Closed,6
+714,175,2025-10-21,WiFi,Medium,In Progress,
+715,3,2025-05-13,Furniture,Low,In Progress,
+716,280,2025-04-25,Security,High,Closed,2
+717,254,2025-08-17,Electricity,Medium,In Progress,
+718,96,2025-08-09,Furniture,High,Closed,1
+719,225,2025-04-16,Electricity,High,Closed,2
+720,75,2025-06-11,WiFi,High,In Progress,
+721,196,2025-01-02,Cleaning,Medium,Closed,7
+722,261,2025-04-29,Cleaning,High,Closed,1
+723,3,2025-12-18,Electricity,Medium,Closed,3
+724,216,2025-09-26,Cleaning,Medium,In Progress,
+725,492,2025-06-08,Security,Low,In Progress,
+726,456,2025-01-06,Furniture,High,Closed,2
+727,299,2025-03-29,WiFi,High,Closed,3
+728,240,2025-01-16,Furniture,High,In Progress,
+729,9,2025-07-02,WiFi,Low,Closed,10
+730,112,2025-07-29,Security,Medium,Closed,7
+731,220,2025-02-17,Plumbing,Medium,Closed,4
+732,356,2025-08-20,Electricity,High,Closed,3
+733,424,2025-01-10,Furniture,Medium,In Progress,
+734,289,2025-10-10,Security,High,Closed,3
+735,271,2025-07-06,Cleaning,High,Closed,1
+736,184,2025-11-13,Security,High,Closed,4
+737,200,2025-06-17,Furniture,High,Closed,1
+738,205,2025-05-20,Plumbing,Medium,Closed,8
+739,500,2025-02-25,WiFi,Medium,In Progress,
+740,144,2025-02-10,Security,Low,Closed,3
+741,360,2025-10-13,WiFi,Low,Closed,5
+742,249,2025-11-01,Plumbing,Medium,Closed,8
+743,55,2025-02-26,Furniture,Medium,Closed,4
+744,136,2025-02-18,Security,Medium,Closed,5
+745,423,2025-02-03,WiFi,Medium,Closed,6
+746,390,2025-11-30,Plumbing,Medium,Closed,5
+747,54,2025-06-21,Electricity,Low,Closed,3
+748,441,2025-06-14,Electricity,High,In Progress,
+749,415,2025-09-30,Plumbing,Medium,Closed,2
+750,203,2025-02-08,Cleaning,Medium,Open,
+751,203,2025-07-02,Cleaning,High,Closed,4
+752,151,2025-07-23,Cleaning,Medium,Closed,3
+753,271,2025-04-20,Cleaning,Medium,Closed,3
+754,179,2025-05-16,Cleaning,Medium,Closed,5
+755,87,2025-12-27,Security,Low,Open,
+756,227,2025-06-04,Plumbing,Medium,In Progress,
+757,116,2025-05-24,Furniture,Low,In Progress,
+758,121,2025-11-15,Cleaning,Low,Closed,5
+759,187,2025-10-14,Security,High,Open,
+760,463,2025-02-13,Security,High,Closed,3
+761,82,2025-07-11,Cleaning,Low,In Progress,
+762,411,2025-04-16,WiFi,Medium,In Progress,
+763,242,2025-12-11,Furniture,Medium,Closed,4
+764,159,2025-06-10,Electricity,High,Closed,4
+765,222,2025-03-31,Security,High,Open,
+766,376,2025-08-01,Electricity,Low,Closed,10
+767,197,2025-10-17,Security,Low,Closed,12
+768,224,2025-08-26,Plumbing,Low,Closed,13
+769,185,2025-05-07,Furniture,Low,Closed,6
+770,480,2025-06-03,Security,High,Closed,1
+771,465,2025-07-26,WiFi,High,In Progress,
+772,171,2025-10-27,Plumbing,Low,Closed,14
+773,301,2025-05-10,Cleaning,Medium,Open,
+774,57,2025-09-01,Cleaning,Medium,Closed,3
+775,415,2025-07-31,Cleaning,High,Open,
+776,147,2025-03-16,Electricity,High,Open,
+777,486,2025-08-25,Plumbing,High,Open,
+778,276,2025-12-06,Electricity,Medium,Closed,5
+779,378,2025-11-05,Furniture,Low,Closed,6
+780,324,2025-03-22,Cleaning,High,Closed,4
+781,350,2025-07-16,Furniture,High,In Progress,
+782,64,2025-03-11,Security,Low,Open,
+783,500,2025-11-02,Security,High,Closed,4
+784,488,2025-12-18,Cleaning,Medium,Closed,4
+785,472,2025-12-18,WiFi,Low,Closed,14
+786,186,2025-06-15,Plumbing,Medium,Closed,3
+787,223,2025-05-28,Furniture,High,In Progress,
+788,398,2025-08-11,Furniture,Medium,Open,
+789,263,2025-05-13,Security,Medium,Closed,8
+790,25,2025-05-07,Cleaning,Medium,Closed,3
+791,61,2025-01-15,Security,Low,Closed,10
+792,434,2025-06-15,Security,Medium,Closed,8
+793,230,2025-04-24,Plumbing,Medium,Closed,8
+794,33,2025-08-06,WiFi,Low,Closed,9
+795,323,2025-05-21,Electricity,High,In Progress,
+796,476,2025-01-25,Cleaning,High,Closed,4
+797,30,2025-01-02,Plumbing,Medium,Closed,6
+798,131,2025-05-16,Electricity,High,In Progress,
+799,346,2025-02-22,Security,Medium,Closed,8
+800,394,2025-11-30,Furniture,Medium,Closed,4
